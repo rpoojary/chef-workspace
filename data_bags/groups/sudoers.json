@@ -1,6 +1,6 @@
 {
 "id":"wheel",
-"gid":"3000",
+"gid":"3005",
 "members":["admin","user"]
 }
 
